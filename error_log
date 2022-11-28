@@ -1,0 +1,1 @@
+[07-Feb-2022 12:41:37 UTC] PHP Fatal error:  Cannot redeclare Surat_kematian::detail_kematian() in /home/tanjungs/public_html/application/controllers/kades/Surat_kematian.php on line 217
